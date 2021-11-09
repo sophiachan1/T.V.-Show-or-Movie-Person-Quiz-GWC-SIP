@@ -1,0 +1,107 @@
+/* STYLE SECTIONING TAGS */
+
+
+#first-set{
+  background-color: #f8e6c4;
+  padding: 7px;
+  margin:5px;
+  margin-bottom: 35px;
+  border:4px solid #ffbc42; 
+}
+
+#second-set{
+  background-color: #d8acbc;
+  padding: 7px;
+  margin:5px;
+  margin-bottom: 35px;
+  border:4px solid #d81159;
+}
+
+#third-set{
+  background-color: #8d7780;
+  padding: 7px;
+  margin:5px;
+  margin-bottom: 35px;
+  border:4px solid #8f2d56;
+}
+
+#fourth-set{
+  background-color: #698180;
+  padding: 7px;
+  margin:5px;
+  margin-bottom: 35px;
+  border:4px solid #218380;
+}
+
+#fifth-set{
+  background-color: #bbd9dd;
+  padding: 7px;
+  margin:5px;
+  margin-bottom: 35px;
+  border:4px solid #73d2de;
+}
+
+#final{
+  background-color: #aee2c4;
+  padding: 7px;
+  margin:5px;
+  margin-bottom: 35px;
+  border:4px solid #04e762;
+}
+
+/* STYLE TEXT */
+h1 {
+  font-family: Luckiest Guy;
+  color: #b01602;
+}
+
+h3{
+  font-family: fjalla one;
+}
+
+#result{
+  font-family: cutive mono;
+}
+
+h2 {
+  font-family: bebas neue;
+  margin-top: 5px; 
+}
+
+
+/* STYLE FLEX CONTAINER */
+.question {
+  display: flex;
+  margin-top: 2em;
+}
+  
+/* STYLE FLEX ITEM */
+.answer-choice {
+  margin: 5px;
+}
+
+/* STYLE IMAGES */
+.answer-choice img {
+  height: 10em;
+  border-radius: 15%;
+}
+
+/* STYLE BUTTON */
+button { 
+  margin-top: 5px;
+  padding:6px;
+  font-family: truculenta; 
+  color: white;
+  background-color: black;
+  font-size: 18px;
+}
+
+#restart{
+  margin-top: 5px;
+  padding:6px;
+  font-family: truculenta; 
+  color: black;
+  background-color: white;
+  font-size: 18px;
+}
+
